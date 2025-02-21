@@ -1,7 +1,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react"
 import Navbar from "./Navbar";
-import { Small_base_url } from "../utils/constants";
+import { Small_base_url } from "../utils/Constants";
 import { Trash } from "lucide-react";
 import toast from "react-hot-toast";
 

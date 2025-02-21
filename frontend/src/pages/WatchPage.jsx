@@ -4,8 +4,8 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 import axios from "axios";
 import ReactPlayer from "react-player";
 
-import { useContentStore } from "../store/content";
-import { Original_base_url, Small_base_url } from "../utils/constants";
+import { useContentStore } from "../store/Content";
+import { Original_base_url, Small_base_url } from "../utils/Constants";
 import Navbar from "../components/Navbar";
 import WatchPageSkeleton from "../components/WatchPageSkeleton";
 

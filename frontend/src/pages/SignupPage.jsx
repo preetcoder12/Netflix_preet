@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { useState } from "react";
 import { useSearchParams } from "react-router-dom";
-import { userAuthstore } from "../store/authUser";
+import { userAuthstore } from "../store/AuthUser";
 import { EyeIcon, EyeOffIcon } from "lucide-react";
 
 const SignupPage = () => {

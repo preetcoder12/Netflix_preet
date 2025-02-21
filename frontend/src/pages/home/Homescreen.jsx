@@ -1,9 +1,9 @@
 import Navbar from "../../components/Navbar";
 import { Link } from "react-router-dom";
 import { Play, Info } from "lucide-react";
-import useGetTrendingContent from "../../Hooks/getTrendingcontent";
-import { Original_base_url, MOVIE_CATEGORIES, TV_CATEGORIES } from "../../utils/constants";
-import { useContentStore } from "../../store/content";
+import useGetTrendingContent from "../../Hooks/GetTrendingcontent";
+import { Original_base_url, MOVIE_CATEGORIES, TV_CATEGORIES } from "../../utils/Constants";
+import { useContentStore } from "../../store/Content";
 import MovieSlider from "../../components/MovieSlider";
 
 

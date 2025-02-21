@@ -1,10 +1,10 @@
 import { useState } from "react";
-import { useContentStore } from "../store/content";
+import { useContentStore } from "../store/Content";
 import Navbar from "./Navbar";
 import { Search } from "lucide-react";
 import toast from "react-hot-toast";
 import axios from "axios";
-import { Original_base_url } from "../utils/constants";
+import { Original_base_url } from "../utils/Constants";
 import { Link } from "react-router-dom";
 
 const SearchPage = () => {
