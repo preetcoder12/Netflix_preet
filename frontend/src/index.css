@@ -1,5 +1,17 @@
 .hero-bg {
+<<<<<<< Updated upstream
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)), url("/hero.png");
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)), url("/hero.png");
+=======
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)), url("hero.png");
+>>>>>>> saved-commits
+=======
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)), url("/hero.png");
+>>>>>>> 3438376 (Updated Netflix-Clone project)
+>>>>>>> Stashed changes
 }
 
 .shimmer {
